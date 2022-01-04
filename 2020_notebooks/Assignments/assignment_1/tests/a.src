@@ -1,0 +1,8 @@
+/* a.src
+This is a simple addition of two integers.
+*/
+
+var x as Int(12);
+var y as Int(21);
+
+print(x + y);

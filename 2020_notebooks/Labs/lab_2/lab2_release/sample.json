@@ -1,0 +1,15 @@
+{
+    "name": "CSCI 4020U",
+    "title": "Compilers",
+    "enrollment": 89,
+    "lectures": [
+        {
+            "day": "Monday",
+            "time": "11-12:30"
+        },
+        {
+            "day": "Thursday",
+            "time": "11-12:30"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+/* b.src
+This implements a function that finds the index of a letter in
+a text.
+*/
+
+function f(text, letter) {
+  for((i,c) in enumerate(text)) {
+    if(c == letter) {
+      return i;
+    }
+  }
+}
+
+print(f("hello world", 'o'));
+print(f("hell\"o\" world", '"'));
